@@ -5,8 +5,9 @@
 ---
 ## Author
 
-![frankfm](https://tryhackme.com/p/frankfm)
+[frankfm](https://tryhackme.com/p/frankfm)
 
+---
 
 ## What I did
 
